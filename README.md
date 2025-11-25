@@ -4,13 +4,13 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge)
 
-Welcome to my cybersecurity portfolio.
-This repository collects my projects, write-ups, tools, proofs of concept (PoC), and labs developed during my learning journey [web:33][web:35].
+Welcome to my cybersecurity portfolio.  
+This repository collects my projects, write-ups, tools, proofs of concept (PoC), and labs developed during my learning journey.
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity enthusiast and pentesting trainee.
-My main focus is on **Web Security**, **Malware Analysis**, and **Automation** [web:35].
+I am a cybersecurity enthusiast and pentesting trainee.  
+My main focus is on **Web Security**, **Malware Analysis**, and **Automation**.
 
 This portfolio showcases my practical experience and skills in real-world scenarios.
 
@@ -39,19 +39,20 @@ Explore the contents of this portfolio by navigating to the sections below:
 
 ## 🚀 Roadmap & Goals
 
-Here is what I am currently working on and planning to learn next [web:33]:
+Here is what I am currently working on and planning to learn next:
 
-- [x] Set up GitHub Portfolio 📝
-- [ ] Complete Dante Pro Labs (Hack The Box) 🚩
-- [ ] Develop a custom C2 framework in Python 🐍
-- [ ] Deep dive into Reverse Engineering with Ghidra 🧩
-- [ ] Earn OSCP Certification 🎓
+- [x] Set up GitHub portfolio 📝  
+- [ ] Complete Dante Pro Labs (Hack The Box) 🚩  
+- [ ] Develop a custom C2 framework in Python 🐍  
+- [ ] Deep dive into Reverse Engineering with Ghidra 🧩  
+- [ ] Earn OSCP Certification 🎓  
 
 ---
 
 ## 📖 How to Use
 
-Feel free to explore the repositories and examples.
+Feel free to explore the repositories and examples.  
 Each project includes a detailed `README` explaining the purpose, technologies used, and usage instructions.
 
 To clone this repository:
+
