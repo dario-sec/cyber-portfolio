@@ -18,9 +18,9 @@ This portfolio showcases my practical experience and skills in real-world scenar
 
 | Category | Technologies & Tools |
 |----------|----------------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| **Tools** | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-clean-blue) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C/C++-Basic-00599C?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-Basic-007396?style=flat&logo=openjdk&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-Comfortable-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-Comfortable-0078D6?style=flat&logo=windows&logoColor=white) |
+| **Cybersec Tools** | Currently exploring and learning core security tools (e.g., Burp Suite, Nmap, Wireshark, Metasploit). |
 
 ---
 
@@ -58,5 +58,7 @@ To clone this repository:
 
 git clone https://github.com/dario-sec/cyber-portfolio.git
 cd cyber-portfolio
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
