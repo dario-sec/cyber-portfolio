@@ -4,15 +4,15 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge)
 
-Benvenuto nel mio portfolio di cybersecurity.
-Questa repository raccoglie i miei progetti, write-ups, tool, proof of concept (PoC) e laboratori sviluppati durante il mio percorso di apprendimento [web:27][web:30].
+Welcome to my cybersecurity portfolio.
+This repository collects my projects, write-ups, tools, proofs of concept (PoC), and labs developed during my learning journey [web:33][web:35].
 
 ## 👨‍💻 About Me
 
-Sono un appassionato di cybersecurity e pentester in formazione.
-Il mio focus principale è su **Web Security**, **Malware Analysis** e **Automazione** [web:27].
+I am a cybersecurity enthusiast and pentesting trainee.
+My main focus is on **Web Security**, **Malware Analysis**, and **Automation** [web:35].
 
-Questo portfolio mostra la mia esperienza pratica e le competenze acquisite in scenari reali.
+This portfolio showcases my practical experience and skills in real-world scenarios.
 
 ### 🛠️ Technical Skills
 
@@ -26,32 +26,32 @@ Questo portfolio mostra la mia esperienza pratica e le competenze acquisite in s
 
 ## 📂 Repository Structure
 
-Esplora i contenuti del portfolio navigando nelle sezioni qui sotto:
+Explore the contents of this portfolio by navigating to the sections below:
 
 | Directory | Type | Description |
 |-----------|------|-------------|
-| **[📂 writeups](./writeups)** | 🚩 `[CTF]` `[HTB]` | Soluzioni di sfide CTF, macchine Hack The Box ed esercizi di laboratorio. |
-| **[📂 tools](./tools)** | 🔧 `[Automation]` | Script e utility sviluppate per apprendimento o test. |
-| **[📂 pocs](./pocs)** | 💥 `[Exploit]` | Proofs of Concept per vulnerabilità ed exploit. |
-| **[📂 labs](./labs)** | 🧪 `[Research]` | Laboratori personali e setup sperimentali per testare tecniche di sicurezza. |
+| **[📂 writeups](./writeups)** | 🚩 `[CTF]` `[HTB]` | Solutions for CTF challenges, Hack The Box machines, and lab exercises. |
+| **[📂 tools](./tools)** | 🔧 `[Automation]` | Scripts and utilities developed for learning or testing purposes. |
+| **[📂 pocs](./pocs)** | 💥 `[Exploit]` | Proofs of concept for vulnerabilities and exploits. |
+| **[📂 labs](./labs)** | 🧪 `[Research]` | Personal labs and experimental setups for testing security techniques. |
 
 ---
 
 ## 🚀 Roadmap & Goals
 
-Ecco su cosa sto lavorando attualmente e i miei prossimi obiettivi di apprendimento [web:25]:
+Here is what I am currently working on and planning to learn next [web:33]:
 
-- [x] Setup del Portfolio GitHub 📝
-- [ ] Completare Dante Pro Labs (Hack The Box) 🚩
-- [ ] Sviluppare un framework C2 custom in Python 🐍
-- [ ] Approfondire il Reverse Engineering con Ghidra 🧩
-- [ ] Ottenere la certificazione OSCP 🎓
+- [x] Set up GitHub Portfolio 📝
+- [ ] Complete Dante Pro Labs (Hack The Box) 🚩
+- [ ] Develop a custom C2 framework in Python 🐍
+- [ ] Deep dive into Reverse Engineering with Ghidra 🧩
+- [ ] Earn OSCP Certification 🎓
 
 ---
 
 ## 📖 How to Use
 
-Sentiti libero di esplorare le repository e gli esempi.
-Ogni progetto include un `README` dettagliato che spiega lo scopo, le tecnologie utilizzate e le istruzioni d'uso.
+Feel free to explore the repositories and examples.
+Each project includes a detailed `README` explaining the purpose, technologies used, and usage instructions.
 
-Per clonare questa repository:
+To clone this repository:
