@@ -39,13 +39,13 @@ Explore the contents of this portfolio by navigating to the sections below:
 
 ## 🚀 Roadmap & Goals
 
-Here is what I am currently working on and planning to learn next:
+The focus of this portfolio is to document my progression from foundational skills to practical, real-world cybersecurity expertise. Current medium-term goals include:
 
-- [x] Set up GitHub portfolio 📝  
-- [ ] Complete Dante Pro Labs (Hack The Box) 🚩  
-- [ ] Develop a custom C2 framework in Python 🐍  
-- [ ] Deep dive into Reverse Engineering with Ghidra 🧩  
-- [ ] Earn OSCP Certification 🎓  
+- Consolidating a strong understanding of network, web, and operating system security through hands-on labs and CTF platforms.  
+- Building a collection of write-ups that demonstrate structured methodologies for reconnaissance, exploitation, and post-exploitation.  
+- Developing custom offensive and defensive tooling in Python to automate repetitive tasks and support red/blue team workflows.  
+- Deepening skills in reverse engineering and malware analysis using tools such as Ghidra and related frameworks.  
+- Preparing for an industry-recognized certification in penetration testing or offensive security. 
 
 ---
 
